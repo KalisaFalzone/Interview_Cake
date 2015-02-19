@@ -1,0 +1,49 @@
+Kalisas-MacBook-Pro:InterviewCake.com_Apple_Stocks_Problem kalisafalzone$ ruby apple_stock_price_On.rb
+lowest_price = 500, profit = 0, best_profit = 400
+lowest_price = 500, profit = 400, best_profit = 400
+lowest_price = 200, profit = 0, best_profit = 400
+lowest_price = 200, profit = 400, best_profit = 400
+lowest_price = 200, profit = 600, best_profit = 600
+lowest_price = 200, profit = 200, best_profit = 600
+lowest_price = 200, profit = 350, best_profit = 600
+lowest_price = 200, profit = 100, best_profit = 600
+lowest_price = 200, profit = 500, best_profit = 600
+Your best profit is 600
+Kalisas-MacBook-Pro:InterviewCake.com_Apple_Stocks_Problem kalisafalzone$ ruby apple_stock_price_On2.rb
+profit = 400, best_profit = 400, buy = 500, sell = 900
+profit = -300, best_profit = 400, buy = 500, sell = 200
+profit = 100, best_profit = 400, buy = 500, sell = 600
+profit = 300, best_profit = 400, buy = 500, sell = 800
+profit = -100, best_profit = 400, buy = 500, sell = 400
+profit = 50, best_profit = 400, buy = 500, sell = 550
+profit = -200, best_profit = 400, buy = 500, sell = 300
+profit = 200, best_profit = 400, buy = 500, sell = 700
+profit = -700, best_profit = 400, buy = 900, sell = 200
+profit = -300, best_profit = 400, buy = 900, sell = 600
+profit = -100, best_profit = 400, buy = 900, sell = 800
+profit = -500, best_profit = 400, buy = 900, sell = 400
+profit = -350, best_profit = 400, buy = 900, sell = 550
+profit = -600, best_profit = 400, buy = 900, sell = 300
+profit = -200, best_profit = 400, buy = 900, sell = 700
+profit = 400, best_profit = 400, buy = 200, sell = 600
+profit = 600, best_profit = 600, buy = 200, sell = 800
+profit = 200, best_profit = 600, buy = 200, sell = 400
+profit = 350, best_profit = 600, buy = 200, sell = 550
+profit = 100, best_profit = 600, buy = 200, sell = 300
+profit = 500, best_profit = 600, buy = 200, sell = 700
+profit = 200, best_profit = 600, buy = 600, sell = 800
+profit = -200, best_profit = 600, buy = 600, sell = 400
+profit = -50, best_profit = 600, buy = 600, sell = 550
+profit = -300, best_profit = 600, buy = 600, sell = 300
+profit = 100, best_profit = 600, buy = 600, sell = 700
+profit = -400, best_profit = 600, buy = 800, sell = 400
+profit = -250, best_profit = 600, buy = 800, sell = 550
+profit = -500, best_profit = 600, buy = 800, sell = 300
+profit = -100, best_profit = 600, buy = 800, sell = 700
+profit = 150, best_profit = 600, buy = 400, sell = 550
+profit = -100, best_profit = 600, buy = 400, sell = 300
+profit = 300, best_profit = 600, buy = 400, sell = 700
+profit = -250, best_profit = 600, buy = 550, sell = 300
+profit = 150, best_profit = 600, buy = 550, sell = 700
+profit = 400, best_profit = 600, buy = 300, sell = 700
+Your best profit is 600
