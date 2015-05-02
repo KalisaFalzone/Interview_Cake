@@ -1,3 +1,6 @@
+In response to the problem posted here:
+https://www.interviewcake.com/question/stock-price
+
 1. apple_stock_price_On.rb
 The best program I have which is O(n). I think it's the same as the answer InterviewCake.com gives, his just uses max and min functions. You can see for an array of length 9 this has 9 lines when running in the file terminal_for running_apple_stock_programs.txt.
 
